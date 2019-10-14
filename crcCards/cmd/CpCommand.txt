@@ -1,0 +1,8 @@
+Class name: CpCommand
+Parent Class (if any): FileSystemCommand
+Subclasses (if any): MvCommand
+
+Responsibilities:
+*Copy a item from the OLDPATH to the NEWPATH
+
+Collaborators:

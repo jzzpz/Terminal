@@ -1,0 +1,10 @@
+Class name: DirectoryStack
+Parent Class (if any): Container
+Subclasses (if any): No
+
+Responsibilities:
+*Contains all directories
+*Allow user to push one directory in at one time
+*Allow user to pop one directory out at one time
+
+Collaborators:

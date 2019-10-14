@@ -1,0 +1,8 @@
+Class name: Output
+Parent Class (if any): No
+Subclasses (if any): No
+
+Responsibilities:
+*Contain all the stdouts and stderrs after executing a Command
+
+Collaborators:

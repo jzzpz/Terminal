@@ -1,0 +1,12 @@
+Class name: LoadCommand
+Parent Class (if any): FileSystemCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Load the content of a target file and reinitialize the previous JShell
+*Block the user to use LoadCommand if this is not the first command that user typed in
+
+Collaborators:
+*CommandHistory
+*DirectoryStack
+*SystemFileController

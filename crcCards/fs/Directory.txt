@@ -1,0 +1,11 @@
+Class name: Directory
+Parent Class (if any): Node
+Subclasses (if any): No
+
+Responsibilities:
+*Stores its parent Directory
+*Stores what Files in this directory
+*Stores what directories in this directory
+
+Collaborators:
+*File

@@ -1,0 +1,7 @@
+Class name: RemoteDataFetcher
+Parent Class (if any): No
+Subclasses (if any): JRemoteDataFetcher
+
+Responsibilities:
+
+Collaborators:

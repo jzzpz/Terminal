@@ -1,0 +1,8 @@
+Class name: Container
+Parent Class (if any): No
+Subclasses (if any): DirectoryStack, CommandHistory
+
+Responsibilities:
+*A container which could store some information
+
+Collaborators:

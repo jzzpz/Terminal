@@ -1,0 +1,9 @@
+Class name: TreeCommand
+Parent Class (if any): FileSystemCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Print the Tree structure of entire FileSystem
+
+Collaborators:
+*FileSystemManager

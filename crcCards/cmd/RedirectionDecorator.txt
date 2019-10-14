@@ -1,0 +1,10 @@
+Class name: RedirectionDecorator
+Parent Class (if any): Command
+Subclasses (if any): RedirectionAppend, RedirectionWrite
+
+Responsibilities:
+*Create a File in the target position and wrap a Command with the Redirection Type
+
+Collaborators:
+*Command
+*FileSystemManager

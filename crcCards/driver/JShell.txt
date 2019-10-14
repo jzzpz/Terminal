@@ -1,0 +1,25 @@
+Class name: JShell
+Parent Class (if any): No
+Subclasses (if any): No
+
+Responsibilities:
+*Start up the shell process when the program starts
+*Create a FileSystem inside the Shell when it starts
+*End up the shell then exit or terminates
+*Provide the access to other components parts for user
+*Get Input Command(String Type) from the Console
+*Initialize the FileSystem
+*Give the InputCommand and FileSystem to the CommandParser
+*Store the CommandController returned by CommandParser
+*Start a InputReader and keep reading Input command(String Type) by using InputReader
+*Get the Actual Command by passing Input Command(String Type) to Parse
+*Get Output from CommandOutput class and show it to users
+*Get Errors from CommandError class and show it to users
+
+
+Collaborators:
+*FileSystemManager
+*CommandHistory
+*DirectoryStack
+*Parser
+*Command

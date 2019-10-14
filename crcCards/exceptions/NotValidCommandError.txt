@@ -1,0 +1,8 @@
+Class name: NodeNotFoundException
+Parent Class (if any): No
+Subclasses (if any): No
+
+Responsibilities:
+*Remind the user that the command he typed in is an invalid command
+
+Collaborators:

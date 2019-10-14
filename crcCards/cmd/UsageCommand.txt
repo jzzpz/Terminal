@@ -1,0 +1,9 @@
+Class name: UsageCommand
+Parent Class (if any): JCommand
+Subclasses (if any): ManCommand
+
+Responsibilities:
+*Works with Command class
+
+Collaborators:
+*Command

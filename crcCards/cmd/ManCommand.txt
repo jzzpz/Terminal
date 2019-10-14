@@ -1,0 +1,8 @@
+Class name: ManCommand
+Parent Class (if any): UsageCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Call Command's usage function to get man page
+
+Collaborators:

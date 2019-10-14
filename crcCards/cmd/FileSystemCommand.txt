@@ -1,0 +1,10 @@
+Class name: FileSystemCommand
+Parent Class (if any): JCommand
+Subclasses (if any): CatCommand, CdCommand, EchoCommand, LsCommand,
+                     MkdirCommand, MvCommand, PwdCommand
+
+Responsibilities:
+*Works with FileSystemManager class
+
+Collaborators:
+*FileSystemManager

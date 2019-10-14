@@ -1,0 +1,9 @@
+Class name: JSystemFileController
+Parent Class (if any): SystemFileController
+Subclasses (if any): No
+
+Responsibilities:
+*get the session of current FileSystem and save it into a file
+*read session information saved im a file and rebuild the previous JShell process
+
+Collaborators:

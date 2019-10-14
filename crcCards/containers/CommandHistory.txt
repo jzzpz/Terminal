@@ -1,0 +1,10 @@
+Class name: CommandHistory
+Parent Class (if any): Container
+Subclasses (if any): No
+
+Responsibilities:
+*Stores all usr input histories
+*Update user input histories once user finish typed in
+*Allow user to view history commands
+
+Collaborators:

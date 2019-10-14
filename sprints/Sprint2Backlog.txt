@@ -1,0 +1,48 @@
+//Sprint 2 Backlog.  
+October 24th to October 30rd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a)As a user I can see the current working directory
+b)As a user I can record the current working directory
+c)As a user I can move to the previous recorded directory
+d)As a user I can get the inputs that I typed in before
+e)As a user I can get the content of a file or files
+f)As a user I can print something In the shell
+g)As a user I can replace  one file's content
+h)As a user I can add new content to a file
+i)As a user I can see the documentation of a command
+
+Specific tasks to be accomplished:
+0-0. create Exception and Test class
+a-1. (Command) create the Command Interface
+a-2. (FileSystemCommand) create the FileSystemCommand abstract class
+a-3. (PwdCommand) create the PwdCommand class
+a-4. (Parser) create the Parser class
+b-1. (DirectoryStackCommand) create the DirectoryStack abstract class
+b-2. (PushdCommand) Create PushdCommand class
+b-3. (DirectoryStack) Create the DirectoryStack class
+c-1. (PopdCommand) create the PopdCommand class
+d-1. (HistoryCommand) create the CommandHistoryCommand abstract class
+d-2. (HistoryCommand) create the HistoryCommand
+e-1. (CatCommand) Finish CatCommand
+f-1. (lsCommand) create the LsCommand
+g-1. (EchoCommand) create the EchoCommand(>)
+h-1. (EchoCommand) create the EchoCommand(>>)
+i-1. (ManCommand) create the UsageCommand abstract class
+i-2. (ManCommand) create the ManCommand class
+
+
+These tasks are assigned as follows:
+
+User: Joey
+Tasks: 0-0, b-1, b-2, c-1, d-1, d-2, i-1, i-2
+
+User: William
+Tasks: 0-0, a-1, a-2, a-3, f-1, g-1, h-1, 
+
+User: Jacky
+Tasks: 0-0, a-4, e-1
+
+User: Tony
+Tasks: 0-0, b-3

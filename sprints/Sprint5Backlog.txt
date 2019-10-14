@@ -1,0 +1,60 @@
+//Sprint 5 Backlog.
+November 19th to November 24th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can do redirection to the get URL command and put the
+    result into the target file
+b) As a user, I can do the get URL command to download a file from a certain website
+c) As a user, I can do the redirection to the man command and put the
+    result into the target file
+d) As a user, I can do the redirection to the pushd command without
+    creating any new files
+e) As a user, I can do the redirection to the popd command without
+    creating any new files
+f) As a user, I can do the redirection to the history command and put the
+    result into the target file
+g) As a user, I can save a file into the real file system on the computer
+h) As a user, I do redirection for the save FileName command without
+    creating any new files
+i) As a user, I can load a file and reinitialize the Jshell at the start
+j) As a user, I can do redirection for the load FileName command without
+    creating any new files
+k) As a user, I can find something that I want by searching the file system
+l) As a user, I can do redirection for the find command and put result into
+    a target file
+m) As a user, I can do the redirection to the echo command and put the
+    result into the target file
+n) As a user, I can do the redirection to the tree command and put the
+    tree structure into the target file
+
+Specific tasks to be accomplished:
+a-1. (GetURLCommand) do redirection to the GetUrlCommand
+b-1. (GetURLCommand) create the GetUrlCommand
+c-1. (ManCommand) do redirection to the ManCommand
+d-1. (PushdCommand) do redirection to the PushdCommand
+e-1. (PopdCommand) do redirection to the PopdCommand
+f-1. (HistoryCommand) do redirection to HistoryCommand
+g-1. (SaveCommand) create the SaveCommand
+h-1. (SaveCommand) do the redirection to the SaveCommand
+i-1. (LoadCommand) create the LoadCommand
+j-1. (LoadCommand) do the redirection to the LoadCommand
+k-1. (FindCommand) create the FindCommand
+l-1. (FindCommand) do the redirection to the FindCommand
+m-1. (EchoCommand) do redirection to the EchoCommand
+n-1. (TreeCommand) do the redirection to the TreeCommand
+
+
+These tasks are assigned as follows:
+
+User: Joey
+Tasks: h-1, j-1, k-1, l-1, m-1, n-1
+
+User: William
+Tasks: a-1, b-1, c-1, d-1, e-1, f-1, g-1, i-1
+
+User: Jacky
+Tasks: a-1, b-1, c-1, d-1
+
+User: Tony
+Tasks: j-1, l-1, m-1, n-1

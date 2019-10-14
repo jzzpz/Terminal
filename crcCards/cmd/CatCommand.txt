@@ -1,0 +1,10 @@
+Class name: CatCommand
+Parent Class (if any): FileSystemCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Call FileSystemManager to get the content of files
+*Print out the contents from the file
+
+
+Collaborators:

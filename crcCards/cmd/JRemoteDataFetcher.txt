@@ -1,0 +1,8 @@
+Class name: JRemoteDataFetcher
+Parent Class (if any): RemoteDataFetcher
+Subclasses (if any): No
+
+Responsibilities:
+*Retreive the file at URL and send back the content of the file
+
+Collaborators:

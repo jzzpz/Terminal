@@ -1,0 +1,8 @@
+Class name: HistoryCommand
+Parent Class (if any): CommandHistoryCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Get user's input historys
+
+Collaborators:

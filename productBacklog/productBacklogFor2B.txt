@@ -1,0 +1,57 @@
+1. As a user, I can do redirection for mkdir command without creating any new files
+
+2. As a user, I can do redirection for cd command without creating any new files
+
+3. As a user, I can do redirection for ls command and put the result into the target file
+
+4. As a user, I can do redirection for pwd command and put the result into the target file
+
+5. As a user, I can type in mv command to move a file to a new path
+
+6. As a user, I can do redirection for mv command without creating any new files
+
+7. As a user, I can type in cp command and copy a file to a new path
+
+8. As a user, I can do redirection for cp command without creating any new files
+
+9. As a user, I can do redirection for the cat command and put the result into the target file
+
+10. As a user, I can do the get URL command to download a file from a certain website
+
+11. As a user, I can do redirection to the get URL command and put the
+    result into the target file
+
+12. As a user, I can do the redirection to the echo command and put the
+    result into the target file
+
+13. As a user, I can do the redirection to the man command and put the
+    result into the target file
+
+14. As a user, I can do the redirection to the pushd command without
+    creating any new files
+
+15. As a user, I can do the redirection to the popd command without
+    creating any new files
+
+16. As a user, I can do the redirection to the history command and put the
+    result into the target file
+
+17. As a user, I can save a file into the real file system on the computer
+
+18. As a user, I do redirection for the save FileName command without
+    creating any new files
+
+18. As a user, I can load a file and reinitialize the Jshell at the start
+
+19. As a user, I can do redirection for the load FileName command without
+    creating any new files
+
+20. As a user, I can find something that I want by searching the file system
+
+21. As a user, I can do redirection for the find command and put result into
+    a target file
+
+22. As a user, I can get the tree structure of the filesystem
+
+23. As a user, I can do the redirection to the tree command and put the
+    tree structure into the target file

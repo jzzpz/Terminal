@@ -1,0 +1,8 @@
+Class name: File
+Parent Class (if any): Node
+Subclasses (if any): No
+
+Responsibilities:
+*Stores one file's name and content
+
+Collaborators:

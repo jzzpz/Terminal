@@ -1,0 +1,8 @@
+Class name: LsCommand
+Parent Class (if any): FileSystemCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Call FileSystemManager to get the list of Files and Directories inside the specified Directory
+
+Collaborators:

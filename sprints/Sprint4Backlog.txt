@@ -1,0 +1,47 @@
+//Sprint 4 Backlog.
+November 12th to November 18th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) As a user, I can do redirection for mkdir command without creating any new files
+b) As a user, I can do redirection for cd command without creating any new files
+c) As a user, I can do redirection for ls command and put the result into the target file
+d) As a user, I can do redirection for pwd command and put the result into the target file
+e) As a user, I can type in mv command to move a file to a new path
+f) As a user, I can do redirection for mv command without creating any new files
+g) As a user, I can type in cp command and copy a file to a new path
+h) As a user, I can do redirection for cp command without creating any new files
+i) As a user, I can do redirection for the cat command and put the result into the target file
+j) As a user, I can get the tree structure of the filesystem
+
+Specific tasks to be accomplished:
+0-0. Keep discussing and arguing about the design about FileSystem and parser
+0-1. Update the crcCards
+a-1. (Builder) build the builder class to initialize the MkdirCommand
+a-2. (MkdirCommand) build the redirection functionality for MkdirCommand
+b-1. (CdCommand) build the redirection functionality for CdCommand
+c-1. (Parser) enable the Parser to accept the -R tag
+c-2. (Builder) enable the builder to initialize the value for -R tag
+c-3. (LsCommand) build the redirection functionality for the LsCommand
+d-1. (PwdCommand) build the redirection functionality for the PwdCommand
+e-1. (MvCommand) create the new MvCommand
+f-1. (MvCommand) create the redirection functionality for the MvCommand
+g-1. (CpCommand) create the new CpCommand
+h-1. (CpCommand) create the redirection functionality for the CpCommand
+i-1. (CatCommand) create the new redirection functionality for the Cat Command
+j-1. (TreeCommand) create the TreeCommand
+
+
+These tasks are assigned as follows:
+
+User: Joey
+Tasks: 0-0, 0-1, c-1, c-3, e-1, f-1, g-1, h-1, i-1
+
+User: William
+Tasks: 0-0, 0-1, a-1, a-2, b-1, c-1, c-2, d-1, j-1
+
+User: Jacky
+Tasks: 0-0, a-1, a-2, c-1, d-1
+
+User: Tony
+Tasks: 0-0, e-1, f-1, g-1, h-1

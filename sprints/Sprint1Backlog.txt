@@ -1,0 +1,39 @@
+//Sprint 1 Backlog.  
+October 17th to October 23rd
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) Allow user to type an input
+b) As a user I can create a directory or file
+c) As a user I can exit the program
+d) As a user I can see all the contents in a directory
+
+Specific tasks to be accomplished:ls
+0-0. Keep discussing and arguing about crcCards design
+a-1. (JShell) Begin coding the structure of the command line interpreter
+a-2. (JShell) Have the shell continually prompt the user for input
+a-3. (JShell) Build up shell for stdin, stdout, and stderr
+a-4. (JShell) Parse the user input for proper keywords
+b-1. (FileSystem) Build up the FileSystem class
+b-2. (File) Create File class and complete its usage and constructor
+b-3. (Directory) Create Directory class to store data
+b-4. (FileSystem) Build simple functionality for now to support current FileSystem
+c-1. (Exit) Complete exit functionality
+c-2. (Exception) Complete Exception interfaces
+c-3. Create different needed exceptions
+d-1. (Command) Make Command interface
+d-2. (CatCommand) Finish cat command
+
+These tasks are assigned as follows:
+
+User: Joey
+Tasks: 0-0, a-1, a-2, a-3, a-4, b-3, d-2
+
+User: William
+Tasks: 0-0, b-1, b-2, b-3, b-4
+
+User: Jacky
+Tasks: 0-0, c-2, c-3, d-2
+
+User: Tony
+Tasks: 0-0, c-1, d-1

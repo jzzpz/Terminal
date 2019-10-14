@@ -1,0 +1,14 @@
+Class name: Parser
+Parent Class (if any): No
+Subclasses (if any): No
+
+Responsibilities:
+*Get input string and parse it
+*Create a CommandController by using the input string and store the FileSystem get from Shell in CommandController
+*Give out a CommandController object back to Shell
+
+Collaborators:
+*FileSystemManager
+*CommandHistory
+*DirectoryStack
+*Command

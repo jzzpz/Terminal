@@ -1,0 +1,10 @@
+Class name: EchoCommand
+Parent Class (if any): FileSystemCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Create a file if file doesn't exists
+*If file exists and using '>', then replace the file's content with new content
+*If file exists and using '>>', then add new content to the end of the file's content
+
+Collaborators:

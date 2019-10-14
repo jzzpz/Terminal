@@ -1,0 +1,9 @@
+Class name: Command
+Parent Class (if any): No
+Subclasses (if any): JCommand
+
+Responsibilities:
+*Stores arguments
+*Can execute by its own functionality.
+
+Collaborators:

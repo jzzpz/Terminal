@@ -1,0 +1,8 @@
+Class name: PopdCommand
+Parent Class (if any): DirectoryStackCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Pop the last directory that pushed into the directory stack
+
+Collaborators:

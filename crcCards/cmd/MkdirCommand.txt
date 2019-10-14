@@ -1,0 +1,8 @@
+Class name: MkdirCommand
+Parent Class (if any): FileSystemCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Call FileSystemManager to create a new Directory in place get from User
+
+Collaborators:

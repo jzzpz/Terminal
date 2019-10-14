@@ -1,0 +1,31 @@
+//Sprint 3 Backlog.  
+October 31st to November 7th
+
+
+User Stories from Product Backlog that we will address in this sprint:
+On Sprint2 we finish all the User stories, so we leave it blank.
+Now what we left is test and fix some minor bugs
+
+
+Specific tasks to be accomplished:
+0-0 Writing test cases for containers
+0-1 Writing test cases for cmd
+0-2 Writing test cases for driver
+0-3 Writing test cases for fs
+1-0 Finish all the advices given on demo
+2-0 Finish the UsageCommand
+
+
+These tasks are assigned as follows:
+
+User: Joey
+Tasks: 0-0, 0-1, 0-2, 0-3, 1-0
+
+User: William
+Tasks: 0-1, 0-2, 0-3, 0-0, 1-0
+
+User: Jacky
+Tasks: 0-1, 0-2, 0-3, 0-0
+
+User: Tony
+Tasks: 2-0

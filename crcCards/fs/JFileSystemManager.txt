@@ -1,0 +1,9 @@
+Class name: JFileSystemManager
+Parent Class (if any): FileSystemManager
+Subclasses (if any): No
+
+Responsibilities:
+*Real instance of a FileSystemManager
+*make changes to the FileSystem
+
+Collaborators:

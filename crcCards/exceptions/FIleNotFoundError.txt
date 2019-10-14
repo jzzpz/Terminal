@@ -1,0 +1,8 @@
+Class name: FileNotFoundError
+Parent Class (if any): No
+Subclasses (if any): No
+
+Responsibilities:
+*Remind the user there is a error when the file the user trying to find does not exist
+
+Collaborators:

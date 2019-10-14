@@ -1,0 +1,10 @@
+Class name: JCommand
+Parent Class (if any): Command
+Subclasses (if any): DirectoryStackCommand, UsageCommand,
+                     CommandHistoryCommand, FileSystemCommand
+
+Responsibilities:
+*Change the stdout and stderr streams to the stream I want
+*Restore the stdout and stderr streams
+
+Collaborators:

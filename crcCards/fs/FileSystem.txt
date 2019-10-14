@@ -1,0 +1,12 @@
+Class name: FileSystem
+Parent Class (if any): No
+Subclasses (if any): No
+
+Responsibilities:
+*Store files and directories
+*Store the root of the whole FileSystem
+*Only one file system exists
+
+Collaborators:
+*File
+*Directory

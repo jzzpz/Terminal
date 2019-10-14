@@ -1,0 +1,8 @@
+Class name: MvCommand
+Parent Class (if any): CpCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Move a item from the OLDPATH to the NEWPATH
+
+Collaborators:

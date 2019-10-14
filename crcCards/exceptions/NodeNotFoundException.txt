@@ -1,0 +1,8 @@
+Class name: NodeNotFoundException
+Parent Class (if any): No
+Subclasses (if any): No
+
+Responsibilities:
+*Remind the user there is not a Node that user want to find exist
+
+Collaborators:

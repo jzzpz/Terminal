@@ -1,0 +1,8 @@
+Class name: RedirectionAppend
+Parent Class (if any): RedirectionDecorator
+Subclasses (if any): No
+
+Responsibilities:
+*Redirect and add the content of stdout to the end of a File
+
+Collaborators:

@@ -1,0 +1,10 @@
+Class name: FileSystemManager
+Parent Class (if any): No
+Subclasses (if any): FileSystemManagerImplementation
+
+Responsibilities:
+*A concept that manager all the files and directories
+
+Collaborators:
+*FileSystem
+*Directory

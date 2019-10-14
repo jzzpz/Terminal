@@ -1,0 +1,7 @@
+Class name: SystemFileController
+Parent Class (if any): No
+Subclasses (if any): JSystemFileController
+
+Responsibilities:
+
+Collaborators:

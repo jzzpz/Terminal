@@ -1,0 +1,8 @@
+Class name: RedirectionWrite
+Parent Class (if any): RedirectionDecorator
+Subclasses (if any): No
+
+Responsibilities:
+*Redirect and replace the content of a File with the stdout
+
+Collaborators:

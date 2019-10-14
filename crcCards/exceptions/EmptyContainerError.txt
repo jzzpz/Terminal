@@ -1,0 +1,8 @@
+Class name: EmptyContainerError
+Parent Class (if any): No
+Subclasses (if any): No
+
+Responsibilities:
+*Remind the user that the Container is already empty and can't get anything out of it
+
+Collaborators:

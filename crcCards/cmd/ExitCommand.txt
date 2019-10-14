@@ -1,0 +1,8 @@
+Class name: ExitCommand
+Parent Class (if any): Command
+Subclasses (if any): No
+
+Responsibilities:
+*Exit the program with exit code 0.
+
+Collaborators:

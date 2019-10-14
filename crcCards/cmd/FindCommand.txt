@@ -1,0 +1,8 @@
+Class name: FindCommand
+Parent Class (if any): FileSystemCommand
+Subclasses (if any): No
+
+Responsibilities:
+*Find the directory or file filtered by name in a specified path
+
+Collaborators:

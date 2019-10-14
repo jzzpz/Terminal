@@ -1,0 +1,8 @@
+Class name: Node
+Parent Class (if any): No
+Subclasses (if any): File, Directory
+
+Responsibilities:
+*Represent one thing (file or directory) in file system.
+
+Collaborators:
